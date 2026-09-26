@@ -39,12 +39,11 @@ directly comparable.
 ## Citation
 
 ```bibtex
-@inproceedings{anomalylr2027,
-  title     = {Industrial Anomaly Detection via Defect-Grounded Reasoning
-               in Visual Latent Space},
-  author    = {TODO},
-  booktitle = {IEEE International Conference on Acoustics, Speech and
-               Signal Processing (ICASSP)},
-  year      = {2027}
+@misc{anomalylr2027,
+  title  = {Industrial Anomaly Detection via Defect-Grounded Reasoning
+            in Visual Latent Space},
+  author = {Jaron Yeh and Yen-Wei Chang and Jiang Liu and Shao-Yuan Lo},
+  year   = {2027},
+  note   = {Under review}
 }
 ```
